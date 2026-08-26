@@ -1,0 +1,7 @@
+openai
+speechrecognition
+pyttsx3
+pyaudio
+tk
+PyPDF2
+python-dotenv
